@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(47, 0, 255);
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/71m2UFoeqIL.png);
+  }
+  
+  h1 {
+    color: rgb(255, 62, 175);
+    text-align: center;
+    text-shadow: 2px 2px 10px rgb(233, 7, 7);
+    font-size: 35px;
+  }
+  
+  p {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+  }
+  h2{
+    color: rgb(17, 227, 235);
+    text-align: center;
+    text-shadow: 2px 2px 2px rgb(238, 228, 240);
+
+  }
+
+  a{
+    color: rgb(255, 72, 157);
+    text-decoration-line: underline
+  }
+ .JAO{
+    margin-left: 33%;
+    border-radius: 1cm;
+    box-shadow: 20px 20px 10px aliceblue;
+ }
+ footer{
+    color: aliceblue;
+    background-color: rgb(7, 6, 7);
+    text-align: center;
+ }
